@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, Eu sou o Lucas Coradin</h1>
+<h3 align="center">Apaixonado por Programação e Análise de Dados</h3>
+
+- 🔭 Atualmente estou trabalhando com Análise e Visualização de Dados **Verificação**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukascoradin&show_icons=true&locale=en&layout=compact" alt="lukascoradin" /></p>
 
 <!--
 **lukascoradin/lukascoradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
