@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas Coradin</h1>
 <h3 align="center">Apaixonado por Programação e Análise de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando com Análise e Visualização de Dados **Verificação**
+- 🔭 Atualmente estou trabalhando com Análise e Visualização de Dados
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
