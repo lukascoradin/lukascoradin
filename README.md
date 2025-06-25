@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas Coradin</h1>
 <h3 align="center">Apaixonado por Programação e Análise de Dados</h3>
 
-- 🔭 Sou formado em Engenharia Elétrica, e minha jornada no mundo da tecnologia começou através de dados e Business Intelligence. Porém, foi no desenvolvimento de software que encontrei meu verdadeiro propósito profissional.
+Sou formado em Engenharia Elétrica, e minha jornada no mundo da tecnologia começou através de dados e Business Intelligence. Porém, foi no desenvolvimento de software que encontrei meu verdadeiro propósito profissional.
 
 Atuo como Desenvolvedor Full Stack, com experiência em Ruby on Rails, desenvolvendo aplicações performáticas, escaláveis e com foco na experiência do usuário. No dia a dia, trabalho em ambientes ágeis (Scrum e Kanban), alinhando desenvolvimento de qualidade, entregas frequentes e colaboração constante com o time.
 
