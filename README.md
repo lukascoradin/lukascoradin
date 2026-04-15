@@ -15,8 +15,6 @@ Estou constantemente aprendendo e me atualizando, movido por uma paixão genuín
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukascoradin&show_icons=true&locale=en&layout=compact" alt="lukascoradin" /></p>
-
 <!--
 **lukascoradin/lukascoradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
