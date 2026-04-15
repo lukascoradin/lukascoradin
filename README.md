@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas Coradin</h1>
-<h3 align="center">Apaixonado por Programação e Análise de Dados</h3>
 
 Sou formado em Engenharia Elétrica, e minha jornada no mundo da tecnologia começou através de dados e Business Intelligence. Porém, foi no desenvolvimento de software que encontrei meu verdadeiro propósito profissional.
 
@@ -11,6 +10,9 @@ Estou constantemente aprendendo e me atualizando, movido por uma paixão genuín
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/joselucascoradin/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukascoradin&show_icons=true&locale=en&layout=compact" alt="lukascoradin" /></p>
